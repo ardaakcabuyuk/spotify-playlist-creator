@@ -22,6 +22,6 @@ Group Members
 Project Reports
 -
 **Project Proposal:** 
-[Project Proposal]
+[Project Proposal](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/cs464_group9_proposal.pdf)
 
 
