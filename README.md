@@ -26,12 +26,12 @@ Project Reports
 [Project Proposal](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/cs464_group9_proposal.pdf)
 
 **Project Progress Report:** 
-[Project Proposal](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/cs464_group9_progress.pdf)
+[Project Progress Report](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/cs464_group9_progress.pdf)
 
 **Project Final Report:** 
-[Project Proposal](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/CS464%20Term%20Project%20Final%20Report.pdf)
+[Project Final Report](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/CS464%20Term%20Project%20Final%20Report.pdf)
 
 **Project Final Presentation:** 
-[Project Proposal](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/CS464%20Project%20Presentation.pdf)
+[Project Final Presentation](https://github.com/ardaakcabuyuk/spotify-playlist-creator/blob/master/Reports/CS464%20Project%20Presentation.pdf)
 
 
